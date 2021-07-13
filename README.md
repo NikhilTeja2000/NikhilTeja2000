@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...AI
 - 📫 How to reach me ...
+-                        https://leetcode.com/chnt0002/
+-                        https://www.hackerrank.com/chnt0002
 
 <!---
 NikhilTeja2000/NikhilTeja2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
