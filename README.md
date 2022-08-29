@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilTeja2000
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Python 
+- 🌱 I’m currently learning ...Fullstack
 - 💞️ I’m looking to collaborate on ...AI
 - 📫 How to reach me ...
 -                        https://leetcode.com/chnt0002/
