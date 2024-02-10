@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NikhilTeja2000
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Fullstack
-- 💞️ I’m looking to collaborate on ...AI
-- 📫 How to reach me ...
+- 🌱 Worked as a ...Fullstack Developer at SOTI
+- 💞️ I’m looking more in the field of AI and ML
+- 📫 Below are my other platforms
 -                        https://leetcode.com/chnt0002/
 -                        https://www.hackerrank.com/chnt0002
 
