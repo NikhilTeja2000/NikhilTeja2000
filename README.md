@@ -6,7 +6,7 @@
 **Other Profiles:**  
 - [LeetCode Profile]( https://leetcode.com/u/chnt0002/)  
 - [HackerRank Profile](https://www.hackerrank.com/profile/chnt0002)
-- [HackerRank Profile](//www.linkedin.com/in/nikhil-teja-chilakabattina-9337511b4/)  
+- [Linkdlen Profile](//www.linkedin.com/in/nikhil-teja-chilakabattina-9337511b4/)  
 
 
 <!---
