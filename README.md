@@ -1,6 +1,6 @@
 - **Name:** Nikhil Teja Chilakabattina
 - **Interests:** Python Programming, Angular, .Net, Machine Learning
-- **Background:** Former Full Stack Developer at SOTI
+- **Background:** Former Full Stack Developer at SOTI and working at ITSC (University of cincinnati )
 - **Career Goals:** Seeking opportunities in Artificial Intelligence and Machine Learning
 
 **Other Profiles:**  
