@@ -1,7 +1,7 @@
 - **Name:** Nikhil Teja Chilakabattina
-- **Interests:** Python Programming, Angular, .Net, Machine Learning
+- **Interests:** Python Programming, Angular, .Net, Machine Learning, React, ShadCN, AI
 - **Background:** Former Full Stack Developer at SOTI and working at ITSC (University of cincinnati )
-- **Career Goals:** Seeking opportunities in Artificial Intelligence and Machine Learning
+- **Career Goals:** Seeking opportunities in building or creating some thing interesting.
 
 **Other Profiles:**  
 - [LeetCode Profile]( https://leetcode.com/u/chnt0002/)  
