@@ -77,3 +77,9 @@
 
 > “I’m not just looking for a job — I’m looking to build something that matters.”
 
+One more thing — I just added my contribution image from a few recent commits. I had made a mistake earlier while committing, so it wasn’t showing up when I wasn’t logged in.
+That’s fixed now, but I’m sharing this just to show the update.
+
+
+<img width="1094" alt="image" src="https://github.com/user-attachments/assets/fd4e44d1-11fc-4f3c-955e-d45e9d4b6322" />
+
