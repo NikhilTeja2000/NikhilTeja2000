@@ -1,15 +1,79 @@
-- **Name:** Nikhil Teja Chilakabattina
-- **Interests:** Python Programming, Angular, .Net, Machine Learning, React, ShadCN, AI
-- **Background:** Former Full Stack Developer at SOTI and working at ITSC (University of cincinnati )
-- **Career Goals:** Seeking opportunities in building or creating some thing interesting.
+\# 👋 Hi there, I'm Nikhil Teja Chilakabattina!
 
-**Other Profiles:**  
-- [LeetCode Profile]( https://leetcode.com/u/chnt0002/)  
-- [HackerRank Profile](https://www.hackerrank.com/profile/chnt0002)
-- [Linkdlen Profile](//www.linkedin.com/in/nikhil-teja-chilakabattina-9337511b4/)  
+🎓 Currently pursuing my Master’s in Information Technology at the University of Cincinnati  
+💼 Software Developer Co-op at ITSC | Former Full Stack Developer at SOTI  
+🚀 Passionate about building impactful applications and exploring cutting-edge technologies in AI, ML, and Web Development
+
+---
 
 
-<!---
-NikhilTeja2000/NikhilTeja2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, TypeScript, C#, SQL, JavaScript  
+- **Frameworks/Libraries:** React, Angular, .NET, Node.js, Prisma, Tailwind CSS, ShadCN  
+- **AI & ML:** Gemini AI, AssemblyAI, TensorFlow, OpenAI API, Prompt Engineering  
+- **Tools & Platforms:** Firebase, AWS S3, Git, REST APIs, Postman, Xcode  
+- **Database:** PostgreSQL, MySQL, SQL Server
+
+---
+
+## 🧠 Interests
+
+- 🤖 AI-Powered Platforms  
+- 🎯 Full-Stack Product Development  
+- 🧪 AI Agents and Prompt Engineering  
+- 🛠️ Building tools that solve real-world problems  
+- 🧬 Brain-Computer Interface Tech (Inspired by SAO!)
+
+---
+
+## 🚧 Projects
+
+### 🔹 [Self Interview AI](https://self-interview-41520.web.app/)
+- React + Firebase web app to simulate mock interviews
+- Uses Gemini AI + AssemblyAI for speech transcription and feedback
+- Dynamic scoring with follow-up questions
+
+### 🔹 [Inbox of Broken Dreams](https://ibd-autorejector.web.app/)
+- AI-powered job application tracker that scans Gmail using OAuth
+- Identifies and tags emails as *Applied*, *Rejected*, *Interview*, or *Ghosted*
+- Built with React, Node.js, Gemini API, and Express
+
+### 🔹 CinemAI Director *(in progress)*
+- AI Agent for script-to-video automation
+- Uses Azure OpenAI, Azure TTS, and MoviePy for voiceover and scene rendering
+- Scene-by-scene video generation based on CSV storyboard data
+
+### 🔹 CastMeld *(in progress)*
+- Real-time podcasting platform with AI co-hosts
+- GPT-4o + AssemblyAI integration for ultra-low-latency voice interaction
+- Optional avatars and studio mode
+
+---
+
+## 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nikhiltejachilakabattina)
+- [LeetCode](https://leetcode.com/yourusername)
+- [HackerRank](https://www.hackerrank.com/yourusername)
+- Email: `nikhiltejac@gmail.com`
+
+---
+## 💼 Experience
+
+**Software Developer Co-op**  
+*University of Cincinnati – ITSC*  
+`Jan 2025 – Present`  
+- Leading development on **Talent Hub**, a full-stack recruitment platform using **React**, **Node.js**, **Prisma**, **AWS**, and **Firebase**
+- Designed and implemented scalable backend APIs and interactive UIs with **ShadCN**, **Tailwind CSS**, and **TypeScript**
+
+**Associate Software Developer**  
+*SOTI India Private Limited*  
+`Aug 2022 – Dec 2023`  
+- Built enterprise-grade features in **.NET**, **Angular**, and **JavaScript**
+- Integrated dynamic dropdowns, approval workflows, and AWS S3 image uploads
+- Developed reusable multi-tab UI components and optimized SQL queries
+
+
+> “I’m not just looking for a job — I’m looking to build something that matters.”
+
