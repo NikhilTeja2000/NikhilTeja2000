@@ -56,7 +56,7 @@
 - [LinkedIn](https://www.linkedin.com/in/nikhiltejachilakabattina)
 - [LeetCode](https://leetcode.com/yourusername)
 - [HackerRank](https://www.hackerrank.com/yourusername)
-- Email: `nikhiltejac@gmail.com`
+- Email: `nikhil.chilakabattina@gmail.com`
 
 ---
 ## 💼 Experience
