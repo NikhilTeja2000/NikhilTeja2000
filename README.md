@@ -1,85 +1,95 @@
-\# 👋 Hi there, I'm Nikhil Teja Chilakabattina!
+# 👋 Hi there, I'm Nikhil Teja Chilakabattina!
 
-🎓 Currently pursuing my Master’s in Information Technology at the University of Cincinnati  
-💼 Software Developer Co-op at ITSC | Former Full Stack Developer at SOTI  
-🚀 Passionate about building impactful applications and exploring cutting-edge technologies in AI, ML, and Web Development
+🎓 Master’s in Information Technology @ University of Cincinnati (May 2025)  
+💼 Software Developer Co-op @ ITSC | Former Full Stack Developer @ SOTI  
+🚀 Passionate about building impactful applications and exploring AI, ML, and Web Development
+
+> “I’m not just looking for a job — I’m looking to build something that matters.”
 
 ---
 
-
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, TypeScript, C#, SQL, JavaScript  
-- **Frameworks/Libraries:** React, Angular, .NET, Node.js, Prisma, Tailwind CSS, ShadCN  
-- **AI & ML:** Gemini AI, AssemblyAI, TensorFlow, OpenAI API, Prompt Engineering  
-- **Tools & Platforms:** Firebase, AWS S3, Git, REST APIs, Postman, Xcode  
-- **Database:** PostgreSQL, MySQL, SQL Server
+- **Languages:** Python, TypeScript, JavaScript, C#, SQL  
+- **Frontend:** React, Angular, Tailwind CSS, ShadCN  
+- **Backend:** Node.js, .NET, Express, TRPC, REST APIs  
+- **AI & ML:** Gemini AI, AssemblyAI, OpenAI API, TensorFlow, Prompt Engineering  
+- **Cloud & Tools:** Firebase, AWS S3, Git, Postman, Xcode, GitHub Actions  
+- **Databases:** PostgreSQL, MySQL, SQL Server, Prisma ORM  
 
 ---
 
 ## 🧠 Interests
 
-- 🤖 AI-Powered Platforms  
+- 🤖 AI-Powered Platforms & Intelligent Agents  
+- 🧠 Brain-Computer Interface Technologies *(inspired by SAO)*  
 - 🎯 Full-Stack Product Development  
-- 🧪 AI Agents and Prompt Engineering  
+- ⚙️ Prompt Engineering & RAG Pipelines  
 - 🛠️ Building tools that solve real-world problems  
-- 🧬 Brain-Computer Interface Tech (Inspired by SAO!)
 
 ---
 
-## 🚧 Projects
+## 🚀 Featured Projects
 
 ### 🔹 [Self Interview AI](https://self-interview-41520.web.app/)
-- React + Firebase web app to simulate mock interviews
-- Uses Gemini AI + AssemblyAI for speech transcription and feedback
-- Dynamic scoring with follow-up questions
+AI-powered mock interview platform  
+- Built with React + Firebase  
+- Uses Gemini API + AssemblyAI for speech-to-text and feedback  
+- Dynamic scoring, follow-up questions, and clean UX
 
 ### 🔹 [Inbox of Broken Dreams](https://ibd-autorejector.web.app/)
-- AI-powered job application tracker that scans Gmail using OAuth
-- Identifies and tags emails as *Applied*, *Rejected*, *Interview*, or *Ghosted*
-- Built with React, Node.js, Gemini API, and Express
+AI-powered job tracker  
+- Scans Gmail inbox using OAuth  
+- Tags emails as *Applied*, *Rejected*, *Interview*, or *Ghosted*  
+- Built with Node.js, React, Gemini API, and Express
 
-### 🔹 CinemAI Director *(in progress)*
-- AI Agent for script-to-video automation
-- Uses Azure OpenAI, Azure TTS, and MoviePy for voiceover and scene rendering
-- Scene-by-scene video generation based on CSV storyboard data
+### 🔹 CinemAI Director *(In Progress)*
+Script-to-video AI agent  
+- Uses Azure OpenAI + Azure TTS + MoviePy  
+- Parses CSV storyboard to generate scene-by-scene videos  
+- Voiceover + visuals stitched for cinematic output
 
-### 🔹 CastMeld *(in progress)*
-- Real-time podcasting platform with AI co-hosts
-- GPT-4o + AssemblyAI integration for ultra-low-latency voice interaction
-- Optional avatars and studio mode
-
----
-
-## 🌐 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nikhiltejachilakabattina)
-- [LeetCode](https://leetcode.com/yourusername)
-- [HackerRank](https://www.hackerrank.com/yourusername)
-- Email: `nikhil.chilakabattina@gmail.com`
+### 🔹 CastMeld *(In Progress)*
+Real-time podcasting platform  
+- GPT-4o + AssemblyAI integration  
+- AI co-hosts with optional avatars  
+- Low-latency audio interaction and studio recording mode  
 
 ---
+
 ## 💼 Experience
 
-**Software Developer Co-op**  
+### **Software Developer Co-op**  
 *University of Cincinnati – ITSC*  
 `Jan 2025 – Present`  
-- Leading development on **Talent Hub**, a full-stack recruitment platform using **React**, **Node.js**, **Prisma**, **AWS**, and **Firebase**
-- Designed and implemented scalable backend APIs and interactive UIs with **ShadCN**, **Tailwind CSS**, and **TypeScript**
+- Leading development of **Talent Hub**, a full-stack recruitment platform  
+- Built with React, Node.js, Prisma, Tailwind CSS, AWS, Firebase  
+- Focused on scalable backend APIs and dynamic UI components
 
-**Associate Software Developer**  
+### **Associate Software Developer**  
 *SOTI India Private Limited*  
 `Aug 2022 – Dec 2023`  
-- Built enterprise-grade features in **.NET**, **Angular**, and **JavaScript**
-- Integrated dynamic dropdowns, approval workflows, and AWS S3 image uploads
-- Developed reusable multi-tab UI components and optimized SQL queries
+- Developed enterprise-grade .NET + Angular modules  
+- Implemented dynamic dropdowns, multi-tab components, approval workflows  
+- Integrated AWS S3 uploads and optimized complex SQL queries  
 
+---
 
-> “I’m not just looking for a job — I’m looking to build something that matters.”
+## 📈 GitHub Contributions
 
-One more thing — I just added my contribution image from a few recent commits. I had made a mistake earlier while committing, so it wasn’t showing up when I wasn’t logged in.
-That’s fixed now, but I’m sharing this just to show the update.
+> Recently fixed my GitHub commit display — contributions are now visible!
 
+![GitHub Contribution Graph](https://github.com/user-attachments/assets/fd4e44d1-11fc-4f3c-955e-d45e9d4b6322)
 
-<img width="1094" alt="image" src="https://github.com/user-attachments/assets/fd4e44d1-11fc-4f3c-955e-d45e9d4b6322" />
+---
 
+## 🌐 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhiltejachilakabattina)  
+- 🧠 [LeetCode](https://leetcode.com/yourusername)  
+- 💻 [HackerRank](https://www.hackerrank.com/yourusername)  
+- 📫 Email: `nikhil.chilakabattina@gmail.com`
+
+---
+
+Thanks for stopping by! If you’re building something cool or looking for a fast-moving engineer who loves AI + full-stack work — let’s chat!
