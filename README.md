@@ -43,6 +43,14 @@ AI-powered job tracker
 - Tags emails as *Applied*, *Rejected*, *Interview*, or *Ghosted*  
 - Built with Node.js, React, Gemini API, and Express
 
+### 🎬 AI-Powered Video Agent from Google Sheet to YouTube (My First AI Agent)   
+
+- Built with n8n, Puppeteer, and Python (YouTube API)
+- Reads prompts from Google Sheets and triggers Gemini video generation via Puppeteer automation
+- Downloads generated videos automatically
+- Uploads directly to YouTube with title and metadata via Python YouTube API script
+- Link: https://www.youtube.com/watch?v=higMr-IcuYk
+
 ### 🔹 CinemAI Director *(In Progress)*
 Script-to-video AI agent  
 - Uses Azure OpenAI + Azure TTS + MoviePy  
