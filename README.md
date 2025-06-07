@@ -50,7 +50,18 @@ AI-powered job tracker
 - Downloads generated videos automatically
 - Uploads directly to YouTube with title and metadata via Python YouTube API script
 - Link: https://www.youtube.com/watch?v=higMr-IcuYk
+  
+### 🕵️‍♂️ IsThisRealJob – AI-Powered Job Scam Detector
 
+- Built with React, TypeScript, Node.js, and Perplexity Sonar API
+- Accepts job title, company, or link as input
+- Triggers Perplexity Sonar Pro to generate trust signals and structured insights
+- Calculates Trust Score (0–1) with citation-based validation
+- Aggregates sentiment from Reddit, Blind, and Glassdoor
+- Flags repost patterns, suspicious phrasing, and platform inconsistencies
+- Responsive glassmorphic UI built with Tailwind
+- Demo link: https://youtu.be/e6PmvEEZWjg?si=G72pVT5etz4A4sLE
+  
 ### 🔹 CinemAI Director *(In Progress)*
 Script-to-video AI agent  
 - Uses Azure OpenAI + Azure TTS + MoviePy  
