@@ -26,6 +26,18 @@ I'm a passionate Software Developer and a Master's student in Information Techno
 
 ## 🚀 Featured Projects
 
+### [ReminoVerse](https://reminoverse.org/)
+A memory-based voice AI platform where users can reconnect with fictional characters, loved ones, or even past versions of themselves via chat, audio, or video.
+
+ - **Tech:** React, Supabase, Gemini API, ElevenLabs, Tavus
+
+### [VeriAssess](https://veriassess.org/)
+A secure, in-person technical assessment booking platform — like "Airbnb for verified interview spaces" — built to restore trust in remote hiring.
+
+ - **Tech:**  React, Node.js, Express, PostgreSQL, Supabase
+
+
+
 ### 🔹 [Self Interview AI](https://self-interview-41520.web.app/)
 
 An AI-powered mock interview platform that provides dynamic scoring, follow-up questions, and speech-to-text feedback to help users practice and improve.
