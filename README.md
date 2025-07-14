@@ -1,114 +1,131 @@
+# ⚡ Nikhil Teja Chilakabattina ⚡
 
-# Hi there, I'm Nikhil Teja Chilakabattina 👋
+### 🧠 Full-Stack Engineer | 🎓 MS IT @ UC | 🛠️ AI Systems Builder
 
-I'm a passionate Software Developer and a Master's student in Information Technology at the University of Cincinnati. With a background in full-stack development and a deep interest in artificial intelligence, I thrive on building applications that solve real-world problems.
+> _"Not just looking for a job — I'm building the future."_
 
-> “I’m not just looking for a job — I’m looking to build something that matters.”
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&duration=3000&pause=1000&color=F58A07&center=true&vCenter=true&width=435&lines=Full+Stack+%7C+LLM+%7C+Builder+%7C+Founder;Hackathon+Winner+%7C+AI+Voice+Projects;I+ship+in+days%2C+not+months+%F0%9F%9A%80" alt="Typing intro" />
+</p>
 
-  - 🎓 **Master’s in Information Technology** @ University of Cincinnati (Expected May 2025)
-  - 💼 **Software Developer Co-op** @ University of Cincinnati - ITSC
-  - 🚀 **Passionate about:** AI, Machine Learning, Full-Stack Product Development, and Brain-Computer Interfaces.
+---
 
------
+## 🧙‍♂️ Who Am I?
 
-## 🛠️ Tech Stack & Skills
+```bash
+> nikhil --whoami
+👨‍💻  Master’s in IT @ UC (May 2025)
+🔁  Full-Stack + AI Engineer
+🛠️  React | Node.js | Gemini/OpenAI | Firebase | Puppeteer
+🎯  Startup Builder | Hackathon Finalist | BCI Dreamer
+```
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | `Python` `TypeScript` `JavaScript` `C#` `SQL` |
-| **Frontend** | `React` `Angular` `Tailwind CSS` `ShadCN` |
-| **Backend** | `Node.js` `.NET` `Express` `TRPC` `REST APIs` |
-| **AI & ML** | `Gemini AI` `AssemblyAI` `OpenAI API` `TensorFlow` `Prompt Engineering` |
-| **Databases** | `PostgreSQL` `MySQL` `SQL Server` `Prisma ORM` |
-| **Cloud & Tools**| `Firebase` `AWS S3` `Git` `Postman` `Xcode` `GitHub Actions` |
+---
 
------
+## 💼 Experience
+
+```bash
+> nikhil --experience
+🟢 Software Developer Co-op @ UC ITSC
+   └── Leading Talent Hub Platform (React + Prisma + Firebase)
+
+🟡 Associate Software Developer @ SOTI
+   └── Enterprise modules | SQL optimization | AWS integration
+```
+
+---
 
 ## 🚀 Featured Projects
 
-### [ReminoVerse](https://reminoverse.org/)
-A memory-based voice AI platform where users can reconnect with fictional characters, loved ones, or even past versions of themselves via chat, audio, or video.
+### 🧠 [ReminoVerse](https://reminoverse.org/)
+> AI voice memory platform to chat with past selves or fictional characters  
+`React`, `Gemini API`, `Supabase`, `Tavus`, `ElevenLabs`
 
- - **Tech:** React, Supabase, Gemini API, ElevenLabs, Tavus
+### 🛡️ [VeriAssess](https://veriassess.org/)
+> Verified in-person assessment rooms for hiring  
+`React`, `Node.js`, `PostgreSQL`, `Supabase`
 
-### [VeriAssess](https://veriassess.org/)
-A secure, in-person technical assessment booking platform — like "Airbnb for verified interview spaces" — built to restore trust in remote hiring.
+### 🎙️ [Self-Interview AI](https://self-interview-41520.web.app/)
+> Practice interviews with dynamic feedback and scoring  
+`React`, `Firebase`, `Gemini API`, `AssemblyAI`
 
- - **Tech:**  React, Node.js, Express, PostgreSQL, Supabase
+### 📬 [Inbox of Broken Dreams](https://ibd-autorejector.web.app/)
+> AI tags your Gmail job apps as Ghosted / Interview / Rejected  
+`Node.js`, `React`, `OAuth`, `Gemini API`
 
+### 🕵️‍♂️ [IsThisRealJob](https://youtu.be/e6PmvEEZWjg)
+> Scam detection via Trust Score from Reddit + Blind  
+`React`, `TypeScript`, `Perplexity Sonar API`
 
+### 🎬 [AI YouTube Agent](https://www.youtube.com/watch?v=higMr-IcuYk)
+> Sheet → Prompt → Gemini → YouTube upload automation  
+`n8n`, `Puppeteer`, `Python`, `YouTube API`
 
-### 🔹 [Self Interview AI](https://self-interview-41520.web.app/)
+---
 
-An AI-powered mock interview platform that provides dynamic scoring, follow-up questions, and speech-to-text feedback to help users practice and improve.
+## 🧰 Tech Toolbox
 
-  - **Tech:** React, Firebase, Gemini API, AssemblyAI
+```yaml
+languages:
+  - Python
+  - TypeScript
+  - C#
+  - SQL
+  - JavaScript
 
-### 🔹 [Inbox of Broken Dreams](https://ibd-autorejector.web.app/)
+frontend:
+  - React
+  - Angular
+  - TailwindCSS
+  - ShadCN
 
-An intelligent job tracker that scans your Gmail inbox, automatically tagging applications as *Applied*, *Rejected*, *Interview*, or *Ghosted*.
+backend:
+  - Node.js
+  - .NET
+  - Express
+  - TRPC
 
-  - **Tech:** Node.js, React, Express, Gemini API, OAuth
+ai_ml:
+  - Gemini API
+  - OpenAI
+  - ElevenLabs
+  - Prompt Engineering
 
-### 🕵️‍♂️ IsThisRealJob – AI-Powered Job Scam Detector
+infra:
+  - Firebase
+  - AWS S3
+  - GitHub Actions
+  - Supabase
 
-A tool that calculates a "Trust Score" for job postings by analyzing the job title, company, or link. It aggregates sentiment from Reddit, Blind, and Glassdoor and flags suspicious patterns.
+databases:
+  - PostgreSQL
+  - SQL Server
+  - MySQL
+  - Prisma ORM
+```
 
-  - **Tech:** React, TypeScript, Node.js, Perplexity Sonar API, Tailwind CSS
-  - **[Watch the Demo](https://youtu.be/e6PmvEEZWjg?si=G72pVT5etz4A4sLE)**
+---
 
-### 🎬 AI-Powered Video Agent
+## 📊 GitHub Stats
 
-My first AI agent that reads prompts from a Google Sheet, uses Puppeteer to trigger Gemini for video generation, and uploads the final video to YouTube with metadata. This project showcases an anime-style veggie burger created through this automated pipeline.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilTeja2000&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikhilTeja2000&theme=tokyonight" width="45%" />
+</p>
 
-  - **Tech:** n8n, Puppeteer, Python, YouTube API, Google Sheets
-  - **[See the Output](https://www.youtube.com/watch?v=higMr-IcuYk)**
+---
 
-### 🔹 CinemAI Director *(In Progress)*
+## 🤝 Let’s Connect
 
-A script-to-video AI agent that parses a storyboard from a CSV file to generate scene-by-scene videos with voiceovers and visuals.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhiltejachilakabattina" target="_blank"><strong>LinkedIn</strong></a> • 
+  <a href="mailto:nikhil.chilakabattina@gmail.com" target="_blank"><strong>Gmail</strong></a> • 
+  <a href="https://leetcode.com/u/chnt0002/" target="_blank"><strong>LeetCode</strong></a> • 
+  <a href="https://www.hackerrank.com/profile/chnt0002" target="_blank"><strong>HackerRank</strong></a>
+</p>
 
-  - **Tech:** Azure OpenAI, Azure TTS, MoviePy
+---
 
-### 🔹 CastMeld *(In Progress)*
-
-A real-time podcasting platform featuring AI co-hosts with optional avatars, low-latency audio, and a studio recording mode.
-
-  - **Tech:** GPT-4o, AssemblyAI
-
------
-
-## 💼 Professional Experience
-
-### **Software Developer Co-op** | University of Cincinnati – ITSC
-
-*Jan 2025 – Present*
-
-  - Leading the full-stack development of **Talent Hub**, a recruitment platform designed to connect students with employers.
-  - Building scalable backend REST APIs and creating a dynamic, responsive UI.
-  - **Tech:** React, Node.js, Prisma, Tailwind CSS, AWS, Firebase.
-
-### **Associate Software Developer** | SOTI India Private Limited
-
-*Aug 2022 – Dec 2023*
-
-  - Developed and enhanced enterprise-grade modules for SOTI's core products.
-  - Implemented complex UI components, approval workflows, and integrated AWS S3 for file uploads.
-  - Optimized challenging SQL queries, improving performance and reliability.
-  - **Tech:** .NET, Angular, SQL Server, AWS S3.
-## Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikhiltejachilakabattina" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nikhil.chilakabattina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/chnt0002/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/chnt0002">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=140&section=footer"/>
 </p>
