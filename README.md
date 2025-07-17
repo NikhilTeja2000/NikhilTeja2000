@@ -2,7 +2,7 @@
 
 ### 🧠 Full-Stack Engineer | 🎓 MS IT @ UC | 🛠️ AI Systems Builder
 
-> _"Not just looking for a job — I'm building the future."_
+> _"Not just seeking a role — seeking a team where I can help build what's next."_
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&duration=3000&pause=1000&color=F58A07&center=true&vCenter=true&width=435&lines=Full+Stack+%7C+LLM+%7C+Builder+%7C+Founder;Hackathon+Winner+%7C+AI+Voice+Projects;I+ship+in+days%2C+not+months+%F0%9F%9A%80" alt="Typing intro" />
