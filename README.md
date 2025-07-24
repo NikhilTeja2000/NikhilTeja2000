@@ -62,47 +62,16 @@
 `n8n`, `Puppeteer`, `Python`, `YouTube API`
 
 ---
-
 ## 🧰 Tech Toolbox
 
-```yaml
-languages:
-  - Python
-  - TypeScript
-  - C#
-  - SQL
-  - JavaScript
-
-frontend:
-  - React
-  - Angular
-  - TailwindCSS
-  - ShadCN
-
-backend:
-  - Node.js
-  - .NET
-  - Express
-  - TRPC
-
-ai_ml:
-  - Gemini API
-  - OpenAI
-  - ElevenLabs
-  - Prompt Engineering
-
-infra:
-  - Firebase
-  - AWS S3
-  - GitHub Actions
-  - Supabase
-
-databases:
-  - PostgreSQL
-  - SQL Server
-  - MySQL
-  - Prisma ORM
-```
+| Category      | Tools & Technologies                                                      |
+|---------------|---------------------------------------------------------------------------|
+| **Languages** | Python, TypeScript, C#, SQL, JavaScript                                   |
+| **Frontend**  | React, Angular, TailwindCSS, ShadCN                                       |
+| **Backend**   | Node.js, .NET, Express, TRPC                                              |
+| **AI / ML**   | Gemini API, OpenAI, ElevenLabs, Prompt Engineering                        |
+| **Infra**     | Firebase, AWS S3, GitHub Actions, Supabase                                |
+| **Databases** | PostgreSQL, SQL Server, MySQL, Prisma ORM                                 |
 
 ---
 
