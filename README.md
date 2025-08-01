@@ -34,9 +34,8 @@
 
 ## Recent Wins 🏆
 
-- 🥇 **Startup Weekend Winner** — AI Voice Memory Platform
 - 🎯 **Hackathon Finalist** — Multiple AI/ML competitions
-- 🚢 **Shipped 6+ production apps** in the last year
+- 🚢 **Shipped 6+ production apps** in the last few months
 - 🧠 **BCI Dreamer** — Exploring brain-computer interfaces
 
 <br/>
