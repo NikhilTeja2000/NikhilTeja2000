@@ -12,6 +12,19 @@
 
 ## What I'm Building 🚀
 
+**[Talk with Nikhil](https://github.com/NikhilTeja2000/talk_with_nikhil)** — A real-time voice-first AI portfolio where you can talk to an AI version of me  
+`Next.js` `FastAPI` `Google ADK` `Gemini Live API` `Supabase` `WebSockets`
+
+**[LinkedIn Clone](https://github.com/NikhilTeja2000/likiidIn)** — A LinkedIn-style platform built fast, with a custom MCP for Bolt that can interact with websites  
+`React` `TypeScript` `Bolt` `Custom MCP` `Web Automation`
+
+**[Medicaid Analytics Agent](https://github.com/NikhilTeja2000/medicaid-analytics-agent)** — An AI analytics agent for investigating public Medicaid claims data in plain English  
+`Python` `AWS Bedrock` `Amazon Nova` `SQL` `Analytics Tools`
+
+**[AI Match Studio](https://github.com/NikhilTeja2000/ai-match-studio)** — A live AI-vs-AI chess experience with real agent matchups like ChatGPT vs Gemini  
+`React` `TypeScript` `AI Agents` `Game Logic` `Real-time Interaction`
+
+
 **[ReminoVerse](https://reminoverse.org/)** — Talk to your past self through AI voice memories  
 `React` `Gemini API` `Supabase` `Tavus` `ElevenLabs`
 
@@ -53,11 +66,19 @@ Built enterprise modules, optimized SQL queries, integrated AWS services
 ## Tech Stack 🛠️
 
 **Languages:** Python, TypeScript, JavaScript, C#, SQL  
-**Frontend:** React, Angular, TailwindCSS, ShadCN  
-**Backend:** Node.js, .NET, Express, TRPC  
-**AI/ML:** Gemini API, OpenAI, ElevenLabs, Prompt Engineering  
-**Cloud & DB:** Firebase, AWS S3, Supabase, PostgreSQL, MySQL, Prisma  
-**Tools:** GitHub Actions, Puppeteer, n8n
+**Frontend:** React, Next.js, Angular, Tailwind CSS, ShadCN  
+**Backend:** Node.js, FastAPI, Express, .NET, tRPC  
+**AI / Agents:** Gemini API, Gemini Live API, OpenAI, Amazon Nova, ElevenLabs, Prompt Engineering, Google ADK  
+**Cloud & DB:** Supabase, PostgreSQL, Snowflake, Firebase, AWS S3, MySQL, Prisma  
+**Automation & Tools:** Playwright, Puppeteer, n8n, GitHub Actions, WebSockets, MCP
+
+## What I Like Building 💡
+
+- AI agents that feel useful, real, and interactive
+- Workflow automation for messy real-world systems
+- Voice-first and real-time AI products
+- Trust, analytics, and operational tooling
+- 0→1 products that combine engineering depth with product thinking
 
 <br/>
 
