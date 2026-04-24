@@ -1,7 +1,7 @@
 # Hey, I'm Nikhil 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+building+AI-powered+solutions;AI+Engineer+building+AI-powered+solutions;Vibe+Coder+building+AI-powered+solutions;Software+Developer+building+AI-powered+solutions;Who+has+AI+as+my+co-founder;Who+has+AI+as+my+Assistant;Who+can+use+AI+to+its+fullest" alt="Dynamic intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=AWS+Hackathon+Winner;Full-Stack+Engineer+building+AI-powered+solutions;AI+Engineer+building+AI-powered+solutions;Vibe+Coder+building+AI-powered+solutions;Software+Developer+building+AI-powered+solutions;Who+has+AI+as+my+co-founder;Who+has+AI+as+my+Assistant;Who+can+use+AI+to+its+fullest" alt="Dynamic intro" />
 </p>
 <p align="center">
   <b>MS IT @ UC Cincinnati | Graduating May 2025</b><br/>
@@ -47,7 +47,7 @@
 
 ## Recent Wins 🏆
 
-- 🎯 **Hackathon Finalist** — Multiple AI/ML competitions
+- 🎯 **Hackathon Winner and Finalist** — Multiple AI/ML competitions
 - 🚢 **Shipped 6+ production apps** in the last few months
 - 🧠 **BCI Dreamer** — Exploring brain-computer interfaces
 
@@ -55,7 +55,11 @@
 
 ## Experience 💼
 
-**Software Developer Co-op @ UC ITSC** *(Current)*  
+**Founding Engineer @ Clinivise ** *(Current)*  
+Worked as a multi-hat engineer, building the website, exploring ETL pipelines, handling billions of data records, and working on website automation.
+
+
+**Software Developer Co-op @ UC ITSC**  
 Leading Talent Hub Platform development with React, Prisma & Firebase
 
 **Associate Software Developer @ SOTI**  
