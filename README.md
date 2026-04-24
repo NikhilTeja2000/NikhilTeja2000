@@ -55,7 +55,7 @@
 
 ## Experience 💼
 
-**Founding Engineer @ Clinivise ** *(Current)*  
+**Founding Engineer @ Clinivise** *(Current)*  
 Worked as a multi-hat engineer, building the website, exploring ETL pipelines, handling billions of data records, and working on website automation.
 
 
