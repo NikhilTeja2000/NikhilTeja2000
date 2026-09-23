@@ -12,7 +12,7 @@
 
 ## What I'm Building 🚀
 
-**[Talk with Nikhil]** — A real-time voice-first AI portfolio where you can talk to an AI version of me  
+**Talk with Nikhil** — A real-time voice-first AI portfolio where you can talk to an AI version of me  
 `Next.js` `FastAPI` `Google ADK` `Gemini Live API` `Supabase` `WebSockets`
 
 **[LinkedIn Clone](https://github.com/NikhilTeja2000/likiidIn)** — A LinkedIn-style platform built fast, with a custom MCP for Bolt that can interact with websites  
