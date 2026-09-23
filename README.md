@@ -1,101 +1,144 @@
 # Hey, I'm Nikhil 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=AWS+Hackathon+Winner;Full-Stack+Engineer+building+AI-powered+solutions;AI+Engineer+building+AI-powered+solutions;Vibe+Coder+building+AI-powered+solutions;Software+Developer+building+AI-powered+solutions;Who+has+AI+as+my+co-founder;Who+has+AI+as+my+Assistant;Who+can+use+AI+to+its+fullest" alt="Dynamic intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=AI+Engineer+building+production+agentic+systems;Software+Engineer+building+0%E2%86%921+products;Agents+%7C+RAG+%7C+Backend+%7C+Cloud;I+like+understanding+the+problem+before+building+the+solution" alt="Dynamic intro" />
 </p>
+
 <p align="center">
-  <b>MS IT @ UC Cincinnati | Graduating May 2025</b><br/>
-  <br/>
-  <i>"Not just seeking a role, seeking a team where I can help build what's next."</i><br/>
-  <b>I ship in days, not months 🚀</b>
+  <b>AI Engineer | MS Information Technology @ University of Cincinnati</b><br/><br/>
+  <i>"I like understanding why something works, why it doesn't, and then figuring out how to build it."</i>
 </p>
 
-## What I'm Building 🚀
+## What I'm Working On 🚀
 
-**Talk with Nikhil** — A real-time voice-first AI portfolio where you can talk to an AI version of me  
-`Next.js` `FastAPI` `Google ADK` `Gemini Live API` `Supabase` `WebSockets`
+I'm currently working as an **AI Engineer**, building a production-grade
+agentic system for clinical operations.
 
-**[LinkedIn Clone](https://github.com/NikhilTeja2000/likiidIn)** — A LinkedIn-style platform built fast, with a custom MCP for Bolt that can interact with websites  
-`React` `TypeScript` `Bolt` `Custom MCP` `Web Automation`
+The system uses **LangGraph** for stateful orchestration, conditional routing,
+parallel analysis and human-in-the-loop workflows; **FastAPI** for the service
+layer; **RAG** over enterprise documents; and structured clinical data services
+for evidence-backed analysis.
 
-**[Medicaid Analytics Agent](https://github.com/NikhilTeja2000/medicaid-analytics-agent)** — An AI analytics agent for investigating public Medicaid claims data in plain English  
-`Python` `AWS Bedrock` `Amazon Nova` `SQL` `Analytics Tools`
+I'm particularly interested in what happens after the AI demo works:
+**reliability, retrieval, evaluation, observability, security, persistence,
+deployment and human review.**
 
-**[AI Match Studio](https://github.com/NikhilTeja2000/ai-match-studio)** — A live AI-vs-AI chess experience with real agent matchups like ChatGPT vs Gemini  
-`React` `TypeScript` `AI Agents` `Game Logic` `Real-time Interaction`
+`Python` `LangGraph` `FastAPI` `RAG` `OpenSearch` `PostgreSQL`
+`LangSmith` `Docker` `AWS`
 
+## How I Got Here
 
-**[ReminoVerse](https://reminoverse.org/)** — Talk to your past self through AI voice memories  
-`React` `Gemini API` `Supabase` `Tavus` `ElevenLabs`
+I started as a software engineer building full-stack and backend systems.
 
-**[VeriAssess](https://veriassess.org/)** — Verified in-person assessment rooms for fair hiring  
+Over time, that moved into cloud infrastructure, data platforms and
+serverless systems — and eventually into AI and agentic applications.
+
+That background shapes how I approach AI today. I don't think of an agent
+as just an LLM call. I think about the system around it: APIs, state,
+data, authentication, failure handling, observability and deployment.
+
+When I don't know something, my instinct is usually:
+
+**Why don't I understand this yet? Let's figure it out.**
+
+## Selected Projects 🛠️
+
+### Talk with Nikhil
+A real-time voice AI portfolio where you can have a conversation with an AI
+version of me.
+
+`Gemini Live` `FastAPI` `WebSockets` `Next.js` `Supabase` `GCP`
+
+### Medicaid Analytics Agent
+AI analytics agent for investigating public Medicaid claims data using
+natural language.
+
+`Python` `AWS Bedrock` `Amazon Nova` `SQL` `Agentic Analytics`
+
+### Self-Interview AI
+Real-time interview practice with speech transcription and AI-generated
+feedback. Used by 100+ users.
+
+`React` `Firebase` `LLMs` `AssemblyAI`
+
+### ReminoVerse
+Voice-first AI experience for interacting with memories of your past self.
+
+`React` `Gemini` `Supabase` `Tavus` `ElevenLabs`
+
+### VeriAssess
+In-person verified assessment platform designed around trustworthy hiring.
+
 `React` `Node.js` `PostgreSQL` `Supabase`
 
-**[Self-Interview AI](https://self-interview-41520.web.app/)** — Practice interviews with real-time AI feedback  
-`React` `Firebase` `Gemini API` `AssemblyAI`
+### Inbox of Broken Dreams
+Automates job-application email classification into states such as
+Interview, Rejected and Ghosted.
 
-**[Inbox of Broken Dreams](https://ibd-autorejector.web.app/)** — AI tags your Gmail job apps as Ghosted/Interview/Rejected  
-`Node.js` `React` `OAuth` `Gemini API`
+`React` `Node.js` `OAuth` `Gemini`
 
-**[IsThisRealJob](https://youtu.be/e6PmvEEZWjg)** — Scam detection via Trust Score from Reddit + Blind  
-`React` `TypeScript` `Perplexity Sonar API`
+## Engineering Experience
 
-**[AI YouTube Agent](https://www.youtube.com/watch?v=higMr-IcuYk)** — Sheet → Prompt → Gemini → YouTube upload automation  
-`n8n` `Puppeteer` `Python` `YouTube API`
+### AI Engineer
+Building production agentic systems using LangGraph, FastAPI, RAG,
+structured data services, evaluation and cloud infrastructure.
 
-<br/>
+### Full Stack AI Engineer — Clinivise
+Built healthcare data and application infrastructure spanning full-stack
+development, serverless APIs, data pipelines and analytics.
 
-## Recent Wins 🏆
+- Processed **9.3M+ provider records**
+- Built data workflows across Snowflake and cloud infrastructure
+- Exposed **13 schema-aware tools** for agent/application use
 
-- 🎯 **Hackathon Winner and Finalist** — Multiple AI/ML competitions
-- 🚢 **Shipped 6+ production apps** in the last few months
-- 🧠 **BCI Dreamer** — Exploring brain-computer interfaces
+### Software Developer — SOTI
+Built enterprise backend and full-stack systems across APIs, databases,
+authentication, cloud services and distributed application infrastructure.
 
-<br/>
-
-## Experience 💼
-
-**Founding Engineer @ Clinivise** *(Current)*  
-Worked as a multi-hat engineer, building the website, exploring ETL pipelines, handling billions of data records, and working on website automation.
-
-
-**Software Developer Co-op @ UC ITSC**  
-Leading Talent Hub Platform development with React, Prisma & Firebase
-
-**Associate Software Developer @ SOTI**  
-Built enterprise modules, optimized SQL queries, integrated AWS services
-
-<br/>
-
-## Tech Stack 🛠️
-
-**Languages:** Python, TypeScript, JavaScript, C#, SQL  
-**Frontend:** React, Next.js, Angular, Tailwind CSS, ShadCN  
-**Backend:** Node.js, FastAPI, Express, .NET, tRPC  
-**AI / Agents:** Gemini API, Gemini Live API, OpenAI, Amazon Nova, ElevenLabs, Prompt Engineering, Google ADK  
-**Cloud & DB:** Supabase, PostgreSQL, Snowflake, Firebase, AWS S3, MySQL, Prisma  
-**Automation & Tools:** Playwright, Puppeteer, n8n, GitHub Actions, WebSockets, MCP
 
 ## What I Like Building 💡
 
-- AI agents that feel useful, real, and interactive
-- Workflow automation for messy real-world systems
-- Voice-first and real-time AI products
-- Trust, analytics, and operational tooling
-- 0→1 products that combine engineering depth with product thinking
+- Production agentic systems
+- RAG and retrieval systems
+- Backend APIs and distributed workflows
+- Serverless and cloud architectures
+- AI-assisted workflow automation
+- Real-time and voice AI products
+- 0→1 products where the problem isn't completely defined yet
 
-<br/>
+## Tech
 
-## GitHub Stats 📊
+**AI / Agents**  
+LangGraph · LangChain · RAG · OpenAI · Gemini · Amazon Bedrock · MCP · LangSmith
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilTeja2000&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikhilTeja2000&theme=dark&hide_border=true" width="48%" />
-</p>
+**Backend**  
+Python · FastAPI · Node.js · C#/.NET · Java · REST · JSON-RPC
 
-<br/>
+**Frontend**  
+React · Next.js · TypeScript · Angular
+
+**Data**  
+PostgreSQL · Aurora · Snowflake · Databricks · Spark · Supabase · DynamoDB
+
+**Cloud / Infrastructure**  
+AWS · GCP · Docker · ECS/Fargate · Lambda · S3 · OpenSearch · Terraform · GitHub Actions
+
+**AI-Assisted Development**  
+Cursor · Kiro · Antigravity
+
+## A Little More About Me
+
+I like building things, but I also like understanding **why** they should
+be built in the first place.
+
+I'm especially interested in problems where the requirements aren't completely
+defined yet — understand the workflow, question assumptions, build something,
+learn from it, and improve it.
+
+Outside engineering, I enjoy cycling and trekking.
 
 ## Let's Connect 🤝
 
-[LinkedIn](https://www.linkedin.com/in/nikhiltejachilakabattina) • [Email](mailto:nikhil.chilakabattina@gmail.com) • [LeetCode](https://leetcode.com/u/chnt0002/) • [HackerRank](https://www.hackerrank.com/profile/chnt0002)
-
+[LinkedIn](https://www.linkedin.com/in/nikhil-ch-9337511b4/) •
+[Email](mailto:chnikhiltejak2@gmail.com) •
+[LeetCode](https://leetcode.com/u/chnt0002/)
